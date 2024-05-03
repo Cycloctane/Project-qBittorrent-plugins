@@ -7,7 +7,7 @@ from http.client import HTTPSConnection
 
 from novaprinter import prettyPrinter
 
-MIKAN_URL = "mikananime.tv"
+MIKAN_URL = "mikanime.tv"
 
 class mikan:
 
