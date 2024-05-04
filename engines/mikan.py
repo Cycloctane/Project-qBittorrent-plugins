@@ -11,8 +11,8 @@ MIKAN_URL = "mikanime.tv"
 
 class mikan:
 
-    url = MIKAN_URL
-    name = "MikanRSSEngine"
+    url: str = MIKAN_URL
+    name: str = "MikanRSSEngine"
 
     supported_categories = {
         'all': '',
